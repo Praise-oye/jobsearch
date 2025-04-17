@@ -1,0 +1,2 @@
+/Users/square1-praise/Downloads/Job Search App/android/app/.cxx/Debug/3su5ld25/x86/CMakeFiles/edit_cache.dir
+/Users/square1-praise/Downloads/Job Search App/android/app/.cxx/Debug/3su5ld25/x86/CMakeFiles/rebuild_cache.dir

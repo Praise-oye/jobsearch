@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219880393358",
+    "project_id": "tutorialtest-a9f03",
+    "storage_bucket": "tutorialtest-a9f03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219880393358:android:d998e974cb796186a897df",
+        "android_client_info": {
+          "package_name": "com.example.job_search_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBz7WO3F60K_OqGItgENAgB5ogC4F7WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

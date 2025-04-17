@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/square1-praise/Desktop/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/square1-praise/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/square1-praise/Downloads/Job Search App/android/app/.cxx/Debug/3su5ld25/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/square1-praise/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/square1-praise/Downloads/Job Search App/android/app/.cxx/Debug/3su5ld25/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
